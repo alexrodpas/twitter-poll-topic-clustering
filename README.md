@@ -1,0 +1,1 @@
+690f_proj (1).ipynb - this fle contains the entire code. A bit of preprocessing is also present and I have tried a lot of things so things which didn't seem useful but can be tried later have been commented right now
