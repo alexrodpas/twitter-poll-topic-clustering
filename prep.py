@@ -19,7 +19,7 @@ class Preprocessor:
     def __init__(self, df):
         self.df = df
 
-    def preprocess_df(self, only_english = True, only_retweeted = False):
+    def preprocess_df(self, only_english = True, only_retweeted = False, positional = False):
         # df.drop(df[df['withheld_in_countries'] == True].index, inplace=True)
         for col in self.df.columns:
             try:
@@ -45,9 +45,13 @@ class Preprocessor:
         if only_english:
             self.df = self.df[self.df['lang'] == 'en']
 
+        if positional:
+            self.df['positional'] = self.df['text'].astype(str) + self.df['timestamp_ms'].astype(str)
+
 
     def preprocess_text(self):
         # TODO 
+        self.df = self.df.drop_duplicates(subset='text', keep="first")
         return
 
     def display_info(self):
