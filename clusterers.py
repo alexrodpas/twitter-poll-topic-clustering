@@ -48,6 +48,14 @@ class KMeansClusterer(Clusterer):
         self.cluster_assignments = self.clusterer.labels_
         self.cluster_centers = self.clusterer.cluster_centers_
 
+    def save(self, df, path):
+        df['cluster'] = self.cluster_assignments
+        for i in range(self.n_clusters):
+            with open(path + '/output{}.txt'.format(i), 'w') as file:
+                df2 = df[df['cluster'] == i]
+                for j in df2['text']:
+                    file.write('{}\n'.format(j))
+
 class AgglomerativeClusterer(Clusterer):
     def __init__(self, n_clusters = 25):
         super().__init__()
