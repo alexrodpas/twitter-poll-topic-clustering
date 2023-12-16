@@ -1,22 +1,78 @@
 25 files containing texts for each cluster. 
 
-According to analysis - 
-File 0: Context - Voting and Elections. This file contains sentences primarily focused on various aspects of voting and elections, including references to political candidates, election processes, and voter activities.
+Comparison of Generative AI outputs (ChatGPT 4 API) and manual evaluations - 
 
-File 1: Context - Cooking and Culinary Experiences. The sentences in this file revolve around cooking, recipes, culinary techniques, and food experiences. .
+File 0: Context - The common theme in these sentences appears to be related to voting or elections. The sentences include references to voting for specific roles (like President or Governor), voting in particular regions (like Uttar Pradesh), and general questions about people's voting behaviors or preferences.
+File 0: Context - Voting & Elections
 
-File 2: Context - Technology and Gadgets. The sentences are centered on technology, gadgets, and their usage, including discussions about smartphones, computers, software, and tech trends. 
+File 1: Context - The common theme in these sentences seems to be centered around social media interactions, particularly involving likes, retweets, replies, and engagement challenges. The sentences include calls for actions such as liking if one thinks the poster is nice, retweeting to show appreciation, replying to express a desire for friendship, and participating in ratios and engagement challenges. This suggests a focus on building social connections and interactions on a social media platform.
+File 1: Context - Conversation Types
 
-File 3: Context - Travel and Tourism. This file includes sentences about travel experiences, destinations, tourism activities, and cultural explorations.
+File 2: Context - The common topic or theme in these sentences is centered around COVID-19, particularly focusing on vaccines, vaccine passports, and related policies like mask-wearing and lockdowns. The sentences include questions about opinions on mandatory vaccines, the appropriateness of asking someone about their vaccination status, general inquiries about whether individuals have been vaccinated against COVID-19, and discussions on government policies regarding COVID-19, such as herd immunity strategies and measures against the virus like mask mandates and lockdowns.
+File 2: Context - Vaccinations
 
-File 4: Context - Sports and Athletic Activities. The content is related to various sports, athletic events, sports teams, and athletes. 
+File 3: Context - The common theme in these sentences appears to be sports and related topics. The sentences include references to specific sports teams and events (like the New England Patriots, Philadelphia Eagles, and Chicago Cubs), sports-related questions (such as preferences for matchups or observations about fan behavior at games), and discussions about sports in popular culture (e.g., a reference to Zack Snyder's Justice League in the context of a sports discussion). This suggests a focus on sports, fan engagement, and related cultural topics.
+File 3: Context - Sports, mostly football
 
-File 5: Context - Education and Learning. Sentences focus on educational topics, learning experiences, school systems, and academic discussions. 
+File 4: Context - The common theme in these sentences seems to be a general interest in various topics, ranging from personal preferences and opinions to cultural and current events. The sentences include a tribute to a public figure, questions about favorite excuses or sports events, speculations about video game content, discussions on cultural drafts, and references to political figures. This diverse range of topics suggests a focus on gathering opinions and thoughts on a wide array of subjects, possibly reflecting a social media or public forum context where users engage in discussions on different themes.
+File 4: Context - Movie Industry
 
-File 6: Context - Health and Wellness. This file discusses health topics, wellness trends, medical advice, and fitness. 
+File 5: Context - The common theme in these sentences appears to involve polls, competitions, and decisions that are crowd-sourced or involve public participation. The sentences include references to needing help in deciding on options (like a ticker symbol), staging battles or matches between entities (possibly in a gaming or social media context), and general queries that invite responses or engagement from others. This suggests a focus on interactive decision-making, community involvement, and participatory events or discussions.
+File 5: Context - Education & Learning
 
-File 7: Context - Business and Finance. The sentences cover business-related themes, financial advice, market trends, and economic discussions. 
+File 6: Context - The common theme in these sentences is centered around polls, surveys, and audience preferences, especially in entertainment and creative content. The sentences include requests for favorites among artworks, queries about preferences in dance or characters from specific media (like "<The Devil Judge>"), and questions about preferred actors in certain roles (e.g., Michael Myers). This suggests a focus on gauging public opinion or preferences in areas related to entertainment, art, and media.
+File 6: Context - Movies + TV
 
-File 8: Context - Entertainment and Media. The content revolves around entertainment, movies, television shows, celebrities, and media trends. 
+File 7: Context - The common theme in these sentences appears to be polls and discussions related to South Indian cinema, particularly focusing on actors and movies. The sentences include references to tournaments or polls determining the biggest superstar or best actor in Tamil cinema, and mention specific movies and actors within the South Indian film industry. This suggests a focus on fan engagement and opinion gathering in the context of South Indian cinema.
+File 7: Context - Non-US Pop Culture
 
-File 9: Context - Politics and Social Issues. This file contains sentences about political opinions, social issues, debates, and governmental policies. 
+File 8: Context - The common theme in these sentences is centered around making decisions through polls or surveys, often related to entertainment choices. The sentences include references to deciding which show or movie to watch next, choosing favorites among options (like #KyCine or #SethDrea, which appear to be related to entertainment or fandoms), and expressions of appreciation for a community. This suggests a focus on using polls for decision-making and engaging with fan communities or entertainment preferences.
+File 8: Context - Entertainment/Media
+
+File 9: Context - The common theme in these sentences is centered around political issues and public opinion polls. The sentences include questions about the effectiveness of political parties, the economic impact of major political events like Brexit, policy options during the COVID-19 pandemic, concerns about climate change, assessments of global threats, and immigration policies. This suggests a focus on gauging public opinions on various significant and often contentious political topics.
+File 9: Context - Politics & Social Issues
+
+File 10: Context - The common theme in these sentences is focused on K-pop (Korean pop music) and its famous members, specifically highlighting polls or rankings of popularity among boy and girl group members. The sentences include references to specific K-pop groups and their members, suggesting a focus on fan engagement, popularity rankings, and discussions within the K-pop fandom. This indicates an interest in determining and celebrating the most famous or popular members of K-pop groups as of August 2021.
+File 10: Context - K-Pop
+
+File 11: Context - The common theme in these sentences is centered around polls, comparisons, and preference queries on a wide range of topics. The sentences include questions about preferences in professional skills, hypothetical scenarios ("Would you rather..."), choices in fictional character pairings, opinions on political figures, preferences in cryptocurrency, and even whimsical topics like snail racing. This suggests a focus on engaging an audience in various types of decision-making or opinion-sharing, often in a playful or speculative manner.
+File 11: Context - no pattern
+
+File 12: Context - The common theme in these sentences is centered around cryptocurrencies, with a specific focus on Bitcoin and general discussions about the crypto market. The sentences include queries about people's feelings towards Bitcoin, speculation on cryptocurrency ownership rates, inquiries about the value of personal crypto portfolios, and comparisons of different cryptocurrencies in terms of their market performance or popularity. This suggests a focus on gauging public opinion and interest in the cryptocurrency sector.
+File 12: Context - Cryptocurrency
+
+File 13: Context - The common theme in these sentences is centered around conducting polls or surveys on a variety of specialized or specific topics. The sentences include queries about experiences in public agencies, learning preferences for new technology, opinions on educational health measures, trivia about specific celebrities or fictional characters, changes in personal shopping habits, and questions about language impairment and internet usage habits. This suggests a focus on gathering detailed and often niche information or opinions from a specific audience, possibly for research or insight purposes.
+File 13: Context - no pattern
+
+File 14: Context - The common theme in these sentences appears to be related to a giveaway or a contest, possibly on a social media platform. The sentences mention a giveaway involving "TTA Coupons," instructions to retweet and follow a specific account, and a time limit for the end of the giveaway ("End: 1 hour"). This suggests a focus on promotional activities or engagement strategies typically used in social media marketing to increase visibility and audience interaction.
+File 14: Context - Random Public Opinion
+
+File 15: Context - The common theme in these sentences is centered around asking for opinions, decisions, or experiences on a variety of topics. The sentences include questions about events happening at the World Series of Poker (WSOP), reactions to a new WWE video game trailer, inquiries about the home-buying process, a decision on a potential account trade, and choices about sessions to attend at an insurance tax convention. This suggests a focus on gathering insights, preferences, or advice across diverse areas, likely engaging an audience for their views or experiences.
+File 15: Context - Blockchain + Tech
+
+File 16: Context - The common theme in these sentences appears to be related to music, specifically focusing on engaging with song lyrics and album names. The sentences include a prompt to continue the lyrics of a specific song ("#SummerOfLove"), and a query about the best album names, indicating a round of some sort of competition or poll. This suggests a focus on music appreciation and interactive engagement with music-related content, possibly in a social media or fan community context.
+File 16: Context - Music
+
+File 17: Context - The common theme in these sentences is a focus on engaging with an online audience for various purposes, primarily on social media platforms. The sentences include requests for YouTube subscriptions and retweets, a poll about social media usage, inquiries about content format preferences, speculation about gaming industry trends (like the introduction of NFTs), organizing interactive events, and questions about streaming practices. This suggests an emphasis on interactive communication, audience engagement, and gathering opinions or support within online communities.
+File 17: Context - Streaming
+
+File 18: Context - The common theme in these sentences is centered around personal preferences, decisions, and sentiments, especially in the context of cryptocurrency and digital communities. The sentences include questions about excitement for specific cryptocurrencies (like $AXS and #SAFEMOON), choices regarding hypothetical contracts, favorite tokens, and offers of emotional support. Additionally, there's a mention of creating a high-quality product (possibly a digital asset or content) and seeking community input on it. This suggests a focus on engagement with digital and crypto communities, sharing personal preferences, and seeking or offering support within these online spaces.
+File 18: Context - Online Shopping
+
+File 19: Context - The common theme in these sentences is centered around creative content creation, specifically involving drawing, comics, and artistic challenges. The sentences include a query about interest in a sneak peek of a comic, requests for suggestions on what to draw or read, and considerations about content to post for account growth as an artist. This suggests a focus on engaging with an audience for inspiration, feedback, and ideas related to artistic and creative endeavors.
+File 19: Context - Internet Culture (+ anime)
+
+File 20: Context - The common theme in these sentences is political opinion polls, specifically focusing on the assessment of political figures and their performance. The sentences include questions about the approval or disapproval of President Joe Biden and his presidency, the job performance of Ron DeSantis as Governor of Florida, and the approval of Matt Wells as Texas Tech's Head Coach. These queries seem aimed at gauging public opinion on the effectiveness and competence of these political and public figures.
+File 20: Context - Presidential Elections
+
+File 21: Context - The common theme in these sentences is centered around making a choice or selection from given options. The sentences frequently use imperative verbs like "save," "select," "pick," "choose," and phrases like "choose your fighter" or "choose the best answer." This suggests a focus on engaging an audience in decision-making or preference expression, often in a playful or hypothetical context. The structure of these sentences indicates they could be part of polls, quizzes, or interactive social media posts where respondents are prompted to choose between various options.
+File 21: Context - Pick Favourite Polls
+
+File 22: Context - No answer (This content may violate our content policy.)
+File 22: Context - Dating Life...
+
+File 23: Context - The common theme in these sentences appears to be centered around competitions and contests, possibly in a sports or gaming context. The sentences include references to a soccer club fans' knockout competition, choosing one sport in the Olympics to keep, a dino race, and mentions of various rounds, suggesting different stages of a competition. This suggests a focus on engaging an audience in competitive events or interactive challenges, likely for entertainment or fan engagement purposes.
+File 23: Context - Sports
+
+File 24: Context - The common theme in these sentences is centered around current events and public opinion on issues related to Afghanistan, particularly focusing on the situation of Afghan refugees and the political dynamics involving the Taliban. The sentences include a reference to a news segment about housing Afghan refugees, a poll on whether the UK should take in Afghan refugees, opinions on the deployment of troops to Afghanistan, and a query about India's diplomatic relations with the Taliban-led Afghanistan. This suggests a focus on engaging with an audience to gather their opinions on significant and timely geopolitical issues.
+File 24: Context - Afghanistan
