@@ -1,1 +1,2 @@
-690f_proj (1).ipynb - this fle contains the entire code. A bit of preprocessing is also present and I have tried a lot of things so things which didn't seem useful but can be tried later have been commented right now
+Sandbox.ipynb file is the main file which internally calls the other .py files where we have created classes. 
+Outputs folder is the folder with 25 text files when run without taking into consideration the timestamp whereas the outputs1 folder has text files with timestamp being embedded.
